@@ -6,13 +6,14 @@ import Header from './Components/Header'
 
 
 import './App.css'
+import Home from './Screen/Home'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div className="min-h-screen">
-      <Header />
+      <Home />
     </div>
   )
 }
