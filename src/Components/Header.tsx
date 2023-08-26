@@ -71,7 +71,7 @@ const Header = () => {
             hover:bg-gray-700 px-[3px] pb-[2px] py-[2px] cursor-pointer
             rounded-md hover:text-white transition-all duration-500 ease-in-out' />
             <h2 className='px-[10px] text-[20px]
-            text-gray-300 border-[2px] border-white rounded-full'>R</h2>
+            text-gray-300 border-[2px] border-white rounded-full cursor-default'>R</h2>
         </div>
     </div>
   )

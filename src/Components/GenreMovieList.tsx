@@ -2,7 +2,7 @@ import React from 'react'
 import { IoChevronForwardSharp } from 'react-icons/io5'
 import MovieList from './MovieList'
 
-import { genre } from '../assets/GenreList'
+// import { genre } from '../assets/GenreList'
 import GenresList from '../Constants/GenresList'
 
 
